@@ -1,6 +1,5 @@
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
-
 public class AESProgram{
 public static void main(String[] args) throws Exception{
 	String key ="1234567890123456";
@@ -18,3 +17,5 @@ public static void main(String[] args) throws Exception{
 	}
 }
 o/p:
+	Encrypted Text: ??'K^??K??g?
+Decrypted Text: HelloWorld12345
